@@ -2,7 +2,7 @@
 <<
 $>> I'm a Student, Learner, Developer, and Youtuber!!
 
-$>> 19 years old kid !!
+$>> 21 years old kid !!
 
 $>> I’m currently learning as much as i can 🤣
 
