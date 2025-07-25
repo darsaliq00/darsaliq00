@@ -5,75 +5,51 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Crafting+Code+That+Talks+To+Hardware;Building+Smart+Things+That+Matter" alt="Typing Animation" />
 </p>
 
-<hr />
+---
 
-<h2>🧠 Who I Am</h2>
-<ul>
-  <li>💻 MERN Stack Dev | Python Automation | Embedded Linux</li>
-  <li>🔬 Creator of <strong>Smart Traffic + Drowsiness Detection System</strong></li>
-  <li>🛠️ Tech Lover | Full-Stack Engineer | Real-World Problem Solver</li>
-  <li>🌐 Ex-Intern @ DynaApple Lab x TBIC CIED (IUST Kashmir)</li>
-  <li>📩 Email: <a href="mailto:mohammadsaliq.official@gmail.com">mohammadsaliq.official@gmail.com</a></li>
-</ul>
+## 🧠 Who I Am
 
-<hr />
+- 💻 MERN Stack Dev | Python Automation | Embedded Linux
+- 🔬 Creator of **Smart Traffic + Drowsiness Detection System**
+- 🛠️ Tech Lover | Full-Stack Engineer | Real-World Problem Solver
+- 🌐 Ex-Intern @ DynaApple Lab x TBIC CIED (IUST Kashmir)
+- 📩 Email: [mohammadsaliq.official@gmail.com](mailto:mohammadsaliq.official@gmail.com)
 
-<h2>🚀 Skills & Tools</h2>
+---
 
-<h4>💻 Tech Stack</h4>
-<p>
-  MongoDB • Express • React • Node.js • Flask • Python • C++
-</p>
+## 🚀 Skills & Tools
 
-<h4>🤖 Embedded & AI</h4>
-<p>
-  OpenCV • dlib • GPIO • SQLite • Mapbox API • Raspberry Pi
-</p>
+**💻 Tech Stack:**  
+`MongoDB` · `Express.js` · `React` · `Node.js` · `Flask` · `Python` · `C++`
 
-<h4>🧰 Tools & IDEs</h4>
-<p>
-  Git • VS Code • Postman • Figma • Linux • Netlify • Render
-</p>
+**🤖 Embedded & AI:**  
+`OpenCV` · `dlib` · `GPIO` · `SQLite` · `Mapbox API` · `Raspberry Pi`
 
-<hr />
+**🧰 Tools & IDEs:**  
+`Git` · `VS Code` · `Postman` · `Figma` · `Linux` · `Netlify` · `Render`
 
-<h2>📈 GitHub Stats</h2>
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadsaliq&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaliq&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadsaliq&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaliq&theme=tokyonight" width="47%" />
 </p>
 
-<hr />
+---
 
-<h2>📌 Featured Projects</h2>
+## 📌 Featured Projects
 
-<table>
-  <tr>
-    <th>🚀 Project</th>
-    <th>🔍 Description</th>
-    <th>⚙️ Tech</th>
-  </tr>
-  <tr>
-    <td><strong>Driver Drowsiness System</strong></td>
-    <td>Real-time fatigue alert with OpenCV + Raspberry Pi</td>
-    <td>Python, dlib, RPi.GPIO, LCD</td>
-  </tr>
-  <tr>
-    <td><strong>Traffic Jam Avoider</strong></td>
-    <td>Flask API + Mapbox Optimizer for routing</td>
-    <td>Flask, Mapbox, REST, React</td>
-  </tr>
-  <tr>
-    <td><strong>Full MERN E-commerce</strong></td>
-    <td>Admin panel, payments, and product system</td>
-    <td>MongoDB, Express, React, Node</td>
-  </tr>
-</table>
+| 🚀 Project Name             | 🔍 Description                                | ⚙️ Tech Stack                      |
+|----------------------------|-----------------------------------------------|------------------------------------|
+| **Driver Drowsiness System** | Real-time fatigue alert using OpenCV + RPi    | Python, dlib, RPi.GPIO, LCD       |
+| **Traffic Jam Avoider**     | Flask API + Mapbox optimization for routing   | Flask, Mapbox API, React          |
+| **Full MERN E-commerce**    | Admin panel, payments, and product system     | MongoDB, Express, React, Node     |
 
-<hr />
+---
 
-<h2>🤝 Connect With Me</h2>
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:mohammadsaliq.official@gmail.com">
@@ -87,7 +63,7 @@
   </a>
 </p>
 
-<hr />
+---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
